@@ -45,12 +45,101 @@ __        __
  
       """+F+'<<<<---------'+W+'UGH'+F+'--------->>>>'+E+F+'\n<<<<--------'+W+'We are Myanmar'+F+'-------->>>>'+E
 	text3 = F+"""
-                                              _
- _ __  _   _  __ _  ___  ___  ___  _ __   ___| |__  _ __ ___   ___   ___
-| '_ \| | | |/ _` |/ _ \/ __|/ _ \| '_ \ / _ \ '_ \| '_ ` _ \ / _ \ / _ \
-| |_) | |_| | (_| |  __/\__ \ (_) | | | |  __/ | | | | | | | | (_) | (_) |
-| .__/ \__, |\__,_|\___||___/\___/|_| |_|\___|_| |_|_| |_| |_|\___/ \___/
-|_|    |___/
+HHHH
+H            H
+H            H
+HHHH
+H
+H
+H
+
+H                    H
+    H            H
+        H    H
+            H
+            H
+            H
+            H
+
+    HHH
+H            H
+H            H
+HHHHH
+H            H
+H            H
+H            H
+
+HHHHH
+H
+H
+HHHHH
+H
+H
+HHHHH
+
+    HHHH
+H
+H
+    HHH
+                H
+                H
+HHHH
+
+    HHHH    
+H                H
+H                H
+H                H
+H                H
+H                H
+    HHHH    
+
+H                    H
+HH                H
+H    H            H
+H        H        H
+H            H    H
+H                HH
+H                    H
+
+HHHHH
+H
+H
+HHHHH
+H
+H
+HHHHH
+
+H            H
+H            H
+H            H
+HHHHH
+H            H
+H            H
+H            H
+
+    H                    H
+    HH            HH
+    H    H    H    H
+    H        H        H
+    H                    H
+    H                    H
+    H                    H
+
+    HHHH    
+H                H
+H                H
+H                H
+H                H
+H                H
+    HHHH    
+
+    HHHH    
+H                H
+H                H
+H                H
+H                H
+H                H
+    HHHH
                                              
 	"""+B+'Version ='+W+' 1.0'+E
 	ran = random.randrange(1, 4)
@@ -66,7 +155,7 @@ def XXS():
 	banner()
 	print('Enter site:')
 	try:
-		site = input(B+'Hunner»XXS»'+E) 
+		site = input(B+'Zero_@290G»XXS»'+E) 
 	except:
 		print(F+'\nError'+E)
 		
@@ -119,7 +208,7 @@ def SQL():
 	os.system('clear')
 	banner()
 	print(G+'Enter site:'+E)
-	site = input(B+'Hunner»SqlScaner»'+E)
+	site = input(B+'Zero_@290G»SqlScaner»'+E)
 	if "http://" not in site and "https://"not in site:
 		site = 'http://' + site
 	else:
@@ -150,7 +239,7 @@ def SQL():
 			if y == "Y" or y == 'y':
 				os.system('sqlmap -u '+site+' --dbs')
 			else:
-				print(W+'<< Good by >> '+E)
+				print(W+'<< We are Power 🌚 >> '+E)
 	except:
 		print(F+'Fatal error'+E)
 
