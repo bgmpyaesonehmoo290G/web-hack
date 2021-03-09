@@ -15,7 +15,7 @@ E = '\033[0m'
 U = '\033[4m'
 O = '\033[33m'
  
-	os.system('clear')
+clear
 def heads():
 	global head
 	head = E+H+"""
