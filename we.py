@@ -1,5 +1,5 @@
-# Create python3 
-# Author B3avers
+
+# By PyaesoneHmoo
 # 
 import urllib.request  as urllib2 
 import re
